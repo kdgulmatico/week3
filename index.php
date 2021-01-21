@@ -65,7 +65,7 @@
 <font color= red size= 7, face= Arial>  <b> I will always choose to act!  I seize this moment. </b> </font>
 <br>
 <br>
-<font color= grey size= 9, face= Arial> <b> I choose now.î ~ </b> </font>
+<font color= grey size= 9, face= Arial> <b> I choose now.‚Äù ~ </b> </font>
 <br>
 <br>
 <font color= red size= 4, face= Arial> <b> Andy Andrews </b> </font>
